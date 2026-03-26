@@ -404,6 +404,91 @@
         "padding_bottom": 24
       }
     },
+    "multirow_7MgjEH": {
+      "type": "multirow",
+      "blocks": {
+        "row_mUMdTm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wipezy_5.webp",
+            "video_muted_autoplay": true,
+            "caption": "",
+            "title": "Shields & P﻿rotects",
+            "title_highlight_color": "#6D388B",
+            "text": "<p>Your kitchen slab has several germs on it. Just cleaning it with water doesn't remove them.<strong>Wipezy cleans and dis-infects your kitchen slab keeping your family healthier!</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_KJDAMc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wipezy_3.webp",
+            "video_muted_autoplay": true,
+            "caption": "",
+            "title": "<strong>Dissolves Grease In﻿stantly</strong>",
+            "title_highlight_color": "#6D388B",
+            "text": "<p>Foam clings, breaks down tough grease, and lifts stains—so you just wipe, no scrubbing needed.<strong>Keeps your hands clean for longer!</strong></p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_Yp3nAP": {
+          "type": "row",
+          "settings": {
+            "video_muted_autoplay": true,
+            "caption": "Caption",
+            "title": "Row",
+            "title_highlight_color": "#6D388B",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "row_mUMdTm",
+        "row_KJDAMc",
+        "row_Yp3nAP"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "row_color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "collapsible_content_9Xjxax": {
       "type": "collapsible-content",
       "blocks": {
@@ -484,8 +569,8 @@
         "row_heading_size": "large",
         "collapse_icon": "plus",
         "display_top_border": true,
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 60,
+        "padding_bottom": 60,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39",
@@ -513,6 +598,7 @@
   "order": [
     "main",
     "related-products",
+    "multirow_7MgjEH",
     "collapsible_content_9Xjxax",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]

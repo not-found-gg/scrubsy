@@ -568,6 +568,10 @@
         "collapsible_row_BWb8ez",
         "collapsible_row_iUbtRD"
       ],
+      "custom_css": [
+        ".accordion__summary {padding-block: 2em;}",
+        "@media (max-width: 578px) {.accordion__summary {padding-block: 1.2em; }}"
+      ],
       "name": "FAQ",
       "settings": {
         "display_id": false,

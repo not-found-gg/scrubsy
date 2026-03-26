@@ -430,9 +430,9 @@
             "video_muted_autoplay": true,
             "caption": "",
             "title": "<strong>Dissolves Grease In﻿stantly</strong>",
-            "title_highlight_color": "#6D388B",
+            "title_highlight_color": "#000000",
             "text": "<p>Foam clings, breaks down tough grease, and lifts stains—so you just wipe, no scrubbing needed.<strong>Keeps your hands clean for longer!</strong></p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "atc_button_label": "",
             "atc_product": "",
@@ -442,12 +442,29 @@
         "row_Yp3nAP": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/wipezy_4.webp",
             "video_muted_autoplay": true,
-            "caption": "Caption",
-            "title": "Row",
+            "caption": "",
+            "title": "Reaches deep corners and hidden gaps effortlessly",
             "title_highlight_color": "#6D388B",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "text": "<p>Foam can easily get inside hard to reach areas and effortlessly clean them.</p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "row_jzLbAE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wipezy_2.webp",
+            "video_muted_autoplay": true,
+            "caption": "",
+            "title": "<strong>2x Faster Cleaning</strong>",
+            "title_highlight_color": "#000000",
+            "text": "<p>Foam clings & cleans<strong>2x fast</strong>, breaks down tough grease, and lifts stains—so you just wipe, no scrubbing needed</p>",
+            "button_label": "",
             "button_link": "",
             "atc_button_label": "",
             "atc_product": "",
@@ -458,7 +475,8 @@
       "block_order": [
         "row_mUMdTm",
         "row_KJDAMc",
-        "row_Yp3nAP"
+        "row_Yp3nAP",
+        "row_jzLbAE"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {

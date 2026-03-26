@@ -407,22 +407,6 @@
     "multirow_7MgjEH": {
       "type": "multirow",
       "blocks": {
-        "row_mUMdTm": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/wipezy_5.webp",
-            "video_muted_autoplay": true,
-            "caption": "",
-            "title": "Shields & P﻿rotects",
-            "title_highlight_color": "#6D388B",
-            "text": "<p>Your kitchen slab has several germs on it. Just cleaning it with water doesn't remove them.<strong>Wipezy cleans and dis-infects your kitchen slab keeping your family healthier!</strong></p>",
-            "button_label": "",
-            "button_link": "",
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false
-          }
-        },
         "row_KJDAMc": {
           "type": "row",
           "settings": {
@@ -455,6 +439,22 @@
             "atc_skip_cart": false
           }
         },
+        "row_mUMdTm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/wipezy_5.webp",
+            "video_muted_autoplay": true,
+            "caption": "",
+            "title": "Shields & P﻿rotects",
+            "title_highlight_color": "#6D388B",
+            "text": "<p>Your kitchen slab has several germs on it. Just cleaning it with water doesn't remove them.<strong>Wipezy cleans and dis-infects your kitchen slab keeping your family healthier!</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
         "row_jzLbAE": {
           "type": "row",
           "settings": {
@@ -473,9 +473,9 @@
         }
       },
       "block_order": [
-        "row_mUMdTm",
         "row_KJDAMc",
         "row_Yp3nAP",
+        "row_mUMdTm",
         "row_jzLbAE"
       ],
       "name": "t:sections.multirow.presets.name",
